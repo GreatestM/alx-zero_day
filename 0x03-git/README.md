@@ -1,1 +1,1 @@
-*This file is  mandatory for all alx school files*
+**This file is  mandatory for all alx school files**
